@@ -1,11 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - main entry
+ * main - Entry point
  *
- * Result: always 0
+ * Description: "the program's description"
+ *
+ * Return: always 0 (success)
  */
-
 int main(void)
 {
 	char i;
